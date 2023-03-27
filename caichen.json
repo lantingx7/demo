@@ -27,7 +27,9 @@
             ]
         }
     ],
-    "sites":[],
+    "sites":[
+        {"key":"drpy_js_豆瓣","name":"豆瓣┃本接口免费,官网:www.2ha.cc","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"http://ftp6284928.host108.abeiyun.cn/drpy/js/drpy.js"}
+    ],
     "parses": [],
     "rules":[],
     "flags": [
