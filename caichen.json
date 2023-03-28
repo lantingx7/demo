@@ -11,7 +11,7 @@
                         "proxy://do=live&type=txt&ext=http://gg.gg/cctvgg"
                     ]
                 },
-                {
+/*                {
                     "name": "live2",
                     "urls": [
                         "proxy://do=live&type=txt&ext=http://9xi4o.tk/sub/mytv.txt"
@@ -22,7 +22,7 @@
                     "urls": [
                         "proxy://do=live&type=txt&ext=https://raw.iqiq.io/lmlmi/ooo/master/live.txt"
                     ]
-                },
+                },*/
                 
             ]
         }
