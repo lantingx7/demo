@@ -5,18 +5,18 @@
         {
             "group": "redirect",
             "channels": [
-/*                {
+                {
                     "name": "live",
                     "urls": [
                         "proxy://do=live&type=txt&ext=http://gg.gg/cctvgg"
                     ]
-                },*/
-/*                {
+                },
+                {
                     "name": "live2",
                     "urls": [
                         "proxy://do=live&type=txt&ext=http://9xi4o.tk/sub/mytv.txt"
                     ]
-                },*/
+                },
                 {
                     "name": "live3",
                     "urls": [
@@ -28,7 +28,8 @@
         }
     ],
     "sites":[
-        {"key":"drpy_js_豆瓣","name":"豆瓣┃本接口免费,官网:www.2ha.cc","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"http://ftp6284928.host108.abeiyun.cn/drpy/js/drpy.js"}
+        {"key":"drpy_js_豆瓣","name":"豆瓣┃本接口免费,官网:www.2ha.cc","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"http://ftp6284928.host108.abeiyun.cn/drpy/js/drpy.js"},
+        {"key":"csp_LiteApple","name":"小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1}
     ],
     "parses": [],
     "rules":[],
